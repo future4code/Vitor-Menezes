@@ -153,12 +153,10 @@ body{
 
 }
 
-
 #navegacao li a:hover{
 
 	background: #c2c2c2;
 	color: #ffffff;
-
 }
 
 #rodape{
@@ -168,7 +166,6 @@ body{
 	text-align: center;
     padding: 5px;
     border-radius: 10px;
-
 }
 
 
