@@ -155,3 +155,14 @@ td button {
 #back-button:hover {
     background-color: #635a3d
 }
+
+table button:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color:#f8d120;
+}
+table button:active {
+    
+    color: #fff;
+    
+}
