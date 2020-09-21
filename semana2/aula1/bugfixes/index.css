@@ -72,6 +72,12 @@ div img {
     width: 15px;
     height: 15px;
 }
+.icone:hover {
+    opacity: 0.3;
+}
+.icone:active {
+    opacity: 1;
+}
 
 
 /** 
