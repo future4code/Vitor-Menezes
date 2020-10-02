@@ -22,7 +22,7 @@ if(respostaUser == true){
 
    const arrayUser = [];
    const arrayPc = [];
-  
+   
    
    for(let i = 0; i < 2; i++){
       arrayUser.push(comprarCarta());
